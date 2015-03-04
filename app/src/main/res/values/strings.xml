@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My Location</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_showLocationGPS">Show Location (GPS)</string>
+    <string name="btn_showLocationNet">Show Location (Network)</string>
+    <string name="btn_closeApp">Close</string>
+
+</resources>
